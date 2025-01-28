@@ -18,5 +18,6 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 alias r=ranger
 alias s='systemctl suspend'
+alias n='nnn -H -e'
 
 export FZF_DEFAULT_COMMAND='find .'
